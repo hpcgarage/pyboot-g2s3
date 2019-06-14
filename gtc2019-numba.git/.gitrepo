@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:ContinuumIO/gtc2019-numba.git
+	branch = master
+	commit = d9806929aba26d01631d66c3fb04e5c6a566154a
+	parent = 51504e44491cc103f3162436b96b748b8e1b13b1
+	method = merge
+	cmdver = 0.4.0
